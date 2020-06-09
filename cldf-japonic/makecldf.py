@@ -46,7 +46,7 @@ for item in parameters:
     Description=''
     parameters_file.append([ID,Name,Description])
 
-with open ('parameters-test.csv','w',newline='') as outfile:
+with open ('parameters.csv','w',newline='') as outfile:
     writer=csv.writer(outfile)
     writer.writerow(["ID","Name","Description"])
     for item in parameters_file:
@@ -58,18 +58,14 @@ forms_file=[]
 n=1
 for item in dat:
     par=item[0]
-    language=item[1]
-    lang_list=language.split('-')
-    lang_list.pop(0)
-    lang='-'.join(lang_list)
+    lang=item[1]
     form=item[2]
-    
     language_ID=languages_d[lang]
     parameter_ID=parameters_d[par]
     forms_file.append([n,language_ID,parameter_ID,form])
     n+=1
 
-with open ('forms-test.csv','w',newline='') as outfile:
+with open ('forms.csv','w',newline='') as outfile:
     writer=csv.writer(outfile)
     writer.writerow(["ID","Language_ID","Parameter_ID","Form"])
     for item in forms_file:
