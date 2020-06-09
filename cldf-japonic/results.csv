@@ -1,65 +1,65 @@
-concept	tiger rate	iconicity
-(syioazyi ga) usui	0.514651024602373	no
-akarui	0.529095385342621	maybe
-atatakai	0.546856762798087	no
-boroboro	0.518335160943151	yes
-buruburu	0.533968920792598	yes
-darui	0.502375501925848	no
-dokidoki	0.509303651503268	yes
-gangan	0.642762413080119	yes
-guQtari	0.492342964094401	mixed
-himozyii	0.509996871552231	no
-hirihiri	0.542885977902932	yes
-iraira	0.506989342554726	yes
-karai	0.573102337951225	no
-kayui	0.519467505100706	no
-kemui	0.538952109176936	no
-kiNkiN	0.67739605890203	yes
-kiiN	0.541021655025783	yes
-kirei	0.506491164166971	maybe
-kitsui	0.490722657852247	no
-kowai	0.501487684401587	no
-kowai-dokidokicomp	0.503404301864423	no
-kurai	0.537790494406299	maybe
-mabusyii	0.497752361212482	no
-mazui	0.50937923729314	no
-minikui	0.489861138446573	no
-misuborasyii	0.482663978880992	no
-musyimusyi	0.513544983363648	mixed
-nemui	0.575608790933868	no
-netyanetya	0.510343224109257	yes
-netyinetyi	0.632412960249463	yes
-nikoniko	0.558716830234595	yes
-nurunuru	0.546180385184513	yes
-oisyii	0.5363147231384	no
-piNpiN	0.52496559236571	yes
-pokapoka	0.66833710198593	yes
-samui	0.520721539996197	no
-shuuneN	0.499913237558822	no
-suQkirisyinai	0.490167524717871	mixed
-suzusyii	0.554218202500673	maybe
-syibui	0.53074520818292	maybe
-syiin	0.611878513970509	yes
-syikusyiku	0.550667405854639	yes
-syimeQpoi	0.516722014259977	derived
-syindoi	0.48635093195391	no
-syizukada	0.50236018724888	no
-syoQpai	0.507490003566961	no
-syobosyobo	0.567935841494002	yes
-taputapu	0.540145026562541	yes
-tsumetai	0.507627165235156	no
-tsurutsuru	0.529203153746129	yes
-tyikatyika-TV	0.518910667062665	yes
-tyikatyika-sun	0.533326572085233	yes
-tyikutyiku	0.519976592008141	yes
-uresyii	0.515940845183068	no
-urusai	0.495689459387676	no
-usui	0.499691556552827	no
-zarazara	0.541200275472721	yes
-zokuzoku	0.496045599335442	yes
-zukizuki	0.511244358373947	yes
-zurui	0.488531784092745	no
-zuuzuusyii	0.492829784485394	yes
-zyikuzyiku	0.509122703703273	yes
-zyimezyime	0.523345314624984	yes
-zyireQtai	0.50048441380669	no
+concept,tiger rate,iconicity
+(syioazyi ga) usui,0.514651025,no
+akarui,0.529095385,maybe
+atatakai,0.546856763,no
+boroboro,0.518335161,yes
+buruburu,0.533968921,yes
+darui,0.502375502,no
+dokidoki,0.509303652,yes
+gangan,0.642762413,yes
+guQtari,0.492342964,mixed
+himozyii,0.509996872,no
+hirihiri,0.542885978,yes
+iraira,0.506989343,yes
+karai,0.573102338,no
+kayui,0.519467505,no
+kemui,0.538952109,no
+kiNkiN,0.677396059,yes
+kiiN,0.541021655,yes
+kirei,0.506491164,maybe
+kitsui,0.490722658,no
+kowai,0.501487684,no
+kowai-dokidokicomp,0.503404302,no
+kurai,0.537790494,maybe
+mabusyii,0.497752361,no
+mazui,0.509379237,no
+minikui,0.489861138,no
+misuborasyii,0.482663979,no
+musyimusyi,0.513544983,mixed
+nemui,0.575608791,no
+netyanetya,0.510343224,yes
+netyinetyi,0.63241296,yes
+nikoniko,0.55871683,yes
+nurunuru,0.546180385,yes
+oisyii,0.536314723,no
+piNpiN,0.524965592,yes
+pokapoka,0.668337102,yes
+samui,0.52072154,no
+shuuneN,0.499913238,no
+suQkirisyinai,0.490167525,mixed
+suzusyii,0.554218203,maybe
+syibui,0.530745208,maybe
+syiin,0.611878514,yes
+syikusyiku,0.550667406,yes
+syimeQpoi,0.516722014,derived
+syindoi,0.486350932,no
+syizukada,0.502360187,no
+syoQpai,0.507490004,no
+syobosyobo,0.567935841,yes
+taputapu,0.540145027,yes
+tsumetai,0.507627165,no
+tsurutsuru,0.529203154,yes
+tyikatyika-TV,0.518910667,yes
+tyikatyika-sun,0.533326572,yes
+tyikutyiku,0.519976592,yes
+uresyii,0.515940845,no
+urusai,0.495689459,no
+usui,0.499691557,no
+zarazara,0.541200275,yes
+zokuzoku,0.496045599,yes
+zukizuki,0.511244358,yes
+zurui,0.488531784,no
+zuuzuusyii,0.492829784,yes
+zyikuzyiku,0.509122704,yes
+zyimezyime,0.523345315,yes
+zyireQtai,0.500484414,no
