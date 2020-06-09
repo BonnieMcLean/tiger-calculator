@@ -72,8 +72,41 @@ with open ('forms.csv','w',newline='') as outfile:
         writer.writerow(item)
 outfile.close()
     
+forms_dict={}
+for item in forms_file:
+    form=item[3]
+    form_ID=item[0]
+    forms_dict[form]=form_ID
+
+cognates_file=[]
+#ID, Form_ID, Cognateset_ID
+# dat is: (parameter,language,form,cognate))
+for item in dat:
+    Form_ID=str(forms_dict[item[2]])
+    ID=Form_ID+'-1'
+    cognate=item[3]
+    if '?' in cognate:
+        cognate="?"
+    parameter_ID=str(parameters_d[item[0]])
+    cognate_ID=parameter_ID+'-'+cognate
+    if 'NA' in cognate_ID:
+        cognate_ID='NA'
+    if '?' in cognate_ID:
+        cognate_ID='?'
+    cognates_file.append([ID,Form_ID,cognate_ID])
+
+with open ('cognates.csv','w',newline='') as outfile:
+    writer=csv.writer(outfile)
+    writer.writerow(["ID","Form_ID","Cognateset_ID"])
+    for item in cognates_file:
+        writer.writerow(item)
+outfile.close()
 
     
+        
+    
+
+
 
 
 
